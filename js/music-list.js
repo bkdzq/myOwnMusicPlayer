@@ -28,7 +28,7 @@ let allMusic = [
     img: "music-1",
     src: "music-3"
   },
-  {
+  { 
     name: "我的祖国|my country and me",
     artist: "中级错题家|medium level problem solver",
     img: "music-1",
