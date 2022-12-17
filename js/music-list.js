@@ -19,37 +19,37 @@ let allMusic = [
   {
     name: "太阳照常升起|sun rise as usual",
     artist: "中级错题家|medium level problem solver",
-    img: "music-2",
+    img: "music-1",
     src: "music-2"
   },
   {
     name: "女儿情|the strong emothion of a queen",
     artist: "中级错题家|medium level problem solver",
-    img: "music-3",
+    img: "music-1",
     src: "music-3"
   },
   {
     name: "我的祖国|my country and me",
     artist: "中级错题家|medium level problem solver",
-    img: "music-4",
+    img: "music-1",
     src: "music-4"
   },
   {
     name: "时间都去哪了|where's the time? ",
     artist: "中级错题家|medium level problem solver",
-    img: "music-5",
+    img: "music-1",
     src: "music-5"
   },
   {
     name: "沧海一声笑|be relaxed near the sea",
     artist: "中级错题家|medium level problem solver",
-    img: "music-6",
+    img: "music-1",
     src: "music-6"
   },
   {
     name: "在水一方|love the girl who is cold to me",
     artist: "中级错题家|medium level problem solver",
-    img: "music-7",
+    img: "music-1",
     src: "music-7"
   },
   // like this paste it and remember to give comma after ending of this bracket }
